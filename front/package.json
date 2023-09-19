@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@aragon/sdk-client": "^1.13.1-rc1",
     "@rainbow-me/rainbowkit": "^1.0.8",
     "@types/node": "^20.5.0",
     "@types/react": "18.2.20",
